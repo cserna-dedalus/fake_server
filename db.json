@@ -12,5 +12,19 @@
             "status": "active",
             "last_updated": "2024-09-13T08:11:43.117000Z"
         }
-    ]
+    ],
+    "status": [{
+            "id": "2355",
+            "description": "In Progress",
+            "title": "In Progress",
+            "status": "active",
+            "last_updated": "2024-09-12T09:49:16.041000Z"
+        }, {
+            "id": "234234",
+            "description": "Done",
+            "title": "Done",
+            "status": "active",
+            "last_updated": "2024-09-13T08:11:43.117000Z"
+        }
+    ]    
 }
