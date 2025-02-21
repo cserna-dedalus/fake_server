@@ -15,13 +15,13 @@
     ],
     "status": [{
             "id": "2355",
-            "description": "In Progress",
+            "description": "Ongoing",
             "title": "Ongoing",
             "status": "active",
             "last_updated": "2024-09-12T09:49:16.041000Z"
         }, {
             "id": "234234",
-            "description": "Done",
+            "description": "Finished",
             "title": "Finished",
             "status": "active",
             "last_updated": "2024-09-13T08:11:43.117000Z"
